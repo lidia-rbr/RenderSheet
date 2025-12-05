@@ -14,6 +14,8 @@ Inspired by **React**, it lets you build dashboards, tables, and spreadsheet lay
 
 Fast, maintainable, and ideal for Apps Script developers.
 
+Tutorial: [Build Your Google Sheets Like React Components (with Apps Script)](https://theappsscriptlab.com/build-your-google-sheets-like-react-components-with-apps-script/)
+
 ---
 
 ## Features
